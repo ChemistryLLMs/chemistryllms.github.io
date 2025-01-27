@@ -1,0 +1,29 @@
+.flex-column-center-align {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chemical-research-summary {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 1269px;
+  padding-top: 102px;
+  padding-bottom: 4733px;
+}
+.chemical-info-card {
+  flex: 0 0 auto;
+  align-self: stretch;
+  padding: 0;
+  margin: 0;
+  margin-top: 21px;
+  font: 400 32px/38px Newsreader, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -0.64px;
+}

@@ -1,0 +1,33 @@
+.translation-paper-section {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 47px;
+  padding-left: 45px;
+}
+.large-centered-text {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 400 64px/77px Newsreader, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -1.28px;
+}
+.purple-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 227px;
+  min-width: 227px;
+  height: 69px;
+  margin-top: 76px;
+  font: 600 20px Inter, sans-serif;
+  color: white;
+  cursor: pointer;
+  background: #5b1573;
+  border: none;
+  border-radius: 8px;
+}

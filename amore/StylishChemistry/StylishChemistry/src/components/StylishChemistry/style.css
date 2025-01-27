@@ -1,0 +1,15 @@
+.container-flex-column-wide {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 1440px;
+  background: white;
+}
+.purple-header {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  height: 85px;
+  background: #5b1573;
+}

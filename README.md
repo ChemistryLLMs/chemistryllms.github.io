@@ -1,1 +1,1 @@
-# chemistryllms.github.io
+# chemistryllms

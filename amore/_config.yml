@@ -1,1 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
+
+title: Lost in Translation: Chemical LMs and the Misunderstanding of Molecule Structures
+description: Framework AMORE: embeddings distance + augmentations of the same molecule
+show_downloads: true
